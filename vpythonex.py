@@ -1,5 +1,6 @@
 """
 This is an example for vpython
+you need to install vpython to run this code.
 """
 from vpython import *
 
